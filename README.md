@@ -1,4 +1,4 @@
-<h1 align="center">Refatoração do projeto inicial Número secreto</h1>
+<h1 align="center">Refatoração do projeto chamado Jogo Número secreto</h1>
 
 <h2> Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
